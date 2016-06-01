@@ -1,0 +1,22 @@
+{
+  "name": "SVisualData",
+  "version": "0.1.0",
+  "summary": "A short description of SVisualData.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/SVisualData",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "shenxuecen": "shenxuecen@baidu.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/SVisualData.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SVisualData/Classes/**/*"
+}

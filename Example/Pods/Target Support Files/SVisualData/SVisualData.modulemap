@@ -1,0 +1,6 @@
+framework module SVisualData {
+  umbrella header "SVisualData-umbrella.h"
+
+  export *
+  module * { export * }
+}
