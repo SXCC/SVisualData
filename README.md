@@ -22,7 +22,7 @@ pod "SVisualData"
 
 ## Author
 
-shenxuecen, shenxuecen@baidu.com
+sxc, allen_sxc@163.com
 
 ## License
 
